@@ -1,6 +1,6 @@
 # jobportal
 
-✨ **Note:** This is a live demo [Job Application](https://sasijob-portal.vercel.app/).
+✨ **Note:** This is a live demo [Job Application](https://jobportal-inky.vercel.app/).
 
 ### [Live demo](https://jobportal-inky.vercel.app/)
 
