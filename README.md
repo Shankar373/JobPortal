@@ -2,7 +2,7 @@
 
 ✨ **Note:** This is a live demo [Job Application](https://sasijob-portal.vercel.app/).
 
-### [Live demo]((https://jobportal-inky.vercel.app/)
+### [Live demo](https://jobportal-inky.vercel.app/)
 
 ## Getting Started
 
